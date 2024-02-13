@@ -1,0 +1,8 @@
+background 1
+#003147
+
+logo color 1
+#F50064
+
+logo color 2
+#FEBF70
